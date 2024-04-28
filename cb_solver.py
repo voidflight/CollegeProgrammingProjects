@@ -1,7 +1,5 @@
 """
-File: cb_solver.py
-Author: Chu Chen
-Purpose: Provides functions to help with solving a 15-peg cracker barrel
+Provides functions to help with solving a 15-peg cracker barrel
 puzzle.
 https://blog.crackerbarrel.com/2021/08/13/how-to-beat-the-cracker-barrel-peg-game/
 """
