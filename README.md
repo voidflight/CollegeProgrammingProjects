@@ -1,6 +1,6 @@
 # CollegeProgrammingProjects
 
-This repository is a compilation of different programming projects I did for class in college. Many of these projects are neither interesting nor useful. However, I no longer have access to a lot of the code I've written over the years (it was saved on a local machine that I no longer own). Other code is built off of other people's repositories, so it it's not a good example of programming I've done by myself. This is basically the best I could find on short notice.
+This repository is a compilation of different programming projects I did for class in college. Many of these projects are neither interesting nor useful. However, I no longer have access to a lot of the code I've written over the years (it was saved on a local machine that I no longer own). Other code is built off of other people's repositories, so it it's not a good example of programming I've done by myself.
 
 Most of the code is in Python, but some (which I'll specify below) is in Java.
 
